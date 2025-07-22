@@ -3,6 +3,7 @@
   <i>Computer Science Engineering Student</i>
 </p>
 <img align="right" src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="245" height="193"/>
+
 ### ✨About Me
 
 - 🎓I'm a Final Year CSE Student
