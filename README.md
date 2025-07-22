@@ -12,21 +12,27 @@
   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-a-642628271) | [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.harshita077@gmail.com) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Harshita__07) |
 |---|---|---|
 
-### I code in
+### 💻 Tech Stack & Tools 
+
+<div align="center">
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
-<img height="50" width="50" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
-<!--
-**Harshita-A07/Harshita-A07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height="50" width="50" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
 
-Here are some ideas to get you started:
- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Tools  -->
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+  </div>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Harshita__07?theme=dark&font=Antic%20Slab&ext=heatmap)
+
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshita-A07&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshita-A07&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshita-A07&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" /> 
+</div>
+
+
+[![Harshita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshita-A07&bg_color=141414&color=fffaff&line=ffffff&point=95e0ea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
