@@ -1,16 +1,17 @@
 <p align="center">
-  <img src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHQxZ21jZmRtZ3Z5MTM4cDlsYWZlNmo1MjlpM2h3b3lpbXVsenF6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif)" width="300" />
-</p>
-
-<p align="center">
   <b><font size="6">Hi there 👋 It's me Harshita</font></b><br>
   <i>Computer Science Engineering Student</i>
 </p>
+<img align="right" src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="300" />
 
-
--🎓 Final Year CSE Student
+- 🎓 Final Year CSE Student
 - 🌱 I’m currently exploring FullStack Development and DSA
-- Passionate about web development
+- ✨Passionate about web development
+
+- 📫 Connect With Me
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harshita-a-642628271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br/> 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <!--
 **Harshita-A07/Harshita-A07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
