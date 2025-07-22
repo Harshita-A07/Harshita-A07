@@ -2,7 +2,7 @@
   <b><font size="8">Hi there 👋 It's me Harshita</font></b><br>
   <i>Computer Science Engineering Student</i>
 </p>
-<img align="right" src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="300" />
+<img align="right" src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="250" height="200"/>
 
 - 🎓 Final Year CSE Student
 - 🌱 I’m currently exploring FullStack Development and DSA
@@ -15,6 +15,7 @@
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+<img height="50" width="50" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
 <!--
 **Harshita-A07/Harshita-A07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
