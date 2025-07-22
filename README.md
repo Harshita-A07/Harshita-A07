@@ -15,8 +15,8 @@
 ### 💻 Tech Stack & Tools 
 
 <div align="center">
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
+[<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
 <img height="50" width="50" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <br>
