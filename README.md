@@ -30,9 +30,11 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
   </div>
+  
   ---
-### LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/Harshita__07?theme=dark&font=Antic%20Slab&ext=heatmap)
+### 👉LeetCode
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Harshita__07?theme=dark&font=Antic%20Slab&ext=heatmap)](https://leetcode.com/Harshita__07)
+
 
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Harshita-A07&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" /> 
