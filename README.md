@@ -4,6 +4,7 @@
 </p>
 <img align="right" src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="245" height="193"/>
 ### ✨About Me
+
 - 🎓I'm a Final Year CSE Student
 - 🌱 I’m currently exploring FullStack Development and DSA
 - 💬Open to learning and passionate about building real-world solutions
