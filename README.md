@@ -2,7 +2,7 @@
   <b><font size="8">Hi there 👋 It's me Harshita</font></b><br>
   <i>Computer Science Engineering Student</i>
 </p>
-<img align="right" src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="245" height="1950"/>
+<img align="right" src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="245" height="950"/>
 
 - 🎓 Final Year CSE Student
 - 🌱 I’m currently exploring FullStack Development and DSA
