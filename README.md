@@ -2,13 +2,13 @@
   <b><font size="8">Hi there 👋 It's me Harshita</font></b><br>
   <i>Computer Science Engineering Student</i>
 </p>
-<img align="right" src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="250" height="200"/>
+<img align="right" src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="245" height="200"/>
 
 - 🎓 Final Year CSE Student
 - 🌱 I’m currently exploring FullStack Development and DSA
 - ✨Passionate about web development
 
-###📫 Connect With Me
+### 📫 Connect With Me
   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-a-642628271) | [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.harshita077@gmail.com) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Harshita__07) |
 |---|---|---|
 
