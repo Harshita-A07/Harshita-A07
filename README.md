@@ -3,10 +3,10 @@
   <i>Computer Science Engineering Student</i>
 </p>
 <img align="right" src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="245" height="193"/>
-
-- 🎓 Final Year CSE Student
+### ✨About Me
+- 🎓I'm a Final Year CSE Student
 - 🌱 I’m currently exploring FullStack Development and DSA
-- ✨Passionate about web development
+- 💬Open to learning and passionate about building real-world solutions
   
 ### 📫 Connect With Me
   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-a-642628271) | [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.harshita077@gmail.com) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Harshita__07) |
